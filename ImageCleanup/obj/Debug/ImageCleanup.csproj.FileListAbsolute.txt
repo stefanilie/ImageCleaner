@@ -1,0 +1,6 @@
+C:\Users\Ilie\Documents\GitHub\ImageCleanup\ImageCleanup\bin\Debug\ImageCleanup.exe.config
+C:\Users\Ilie\Documents\GitHub\ImageCleanup\ImageCleanup\obj\Debug\ImageCleanup.csprojResolveAssemblyReference.cache
+C:\Users\Ilie\Documents\GitHub\ImageCleanup\ImageCleanup\bin\Debug\ImageCleanup.exe
+C:\Users\Ilie\Documents\GitHub\ImageCleanup\ImageCleanup\bin\Debug\ImageCleanup.pdb
+C:\Users\Ilie\Documents\GitHub\ImageCleanup\ImageCleanup\obj\Debug\ImageCleanup.exe
+C:\Users\Ilie\Documents\GitHub\ImageCleanup\ImageCleanup\obj\Debug\ImageCleanup.pdb
