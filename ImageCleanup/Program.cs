@@ -11,10 +11,9 @@ namespace ImageCleanup
     {
         static void Main(string[] args)
         {
-            string path = "C:\\Pictures\\4276672.JPG";
+            string path = "C:\\Pictures\\";
             Cleanup objCleanup = new Cleanup();
-            FileInfo fl = new FileInfo(path);
-            objCleanup.rename(fl);
+            objCleanup.renameAll(path);
 
             Console.Read();
         }
