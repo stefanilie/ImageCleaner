@@ -13,8 +13,10 @@ namespace ImageCleanup
         {
             string path = "C:\\Pictures\\";
             Cleanup objCleanup = new Cleanup();
+            //objCleanup.cleanAll(path);
+            //Console.WriteLine("\n\nCleanup complete!");
             objCleanup.renameAll(path);
-
+            Console.WriteLine("\n\nRename complete!");
             Console.Read();
         }
     }
